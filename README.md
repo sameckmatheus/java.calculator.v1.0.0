@@ -1,0 +1,2 @@
+# java.calculator.v1.0.0
+Java é uma ótima linguagem orientada objeto para criar aplicações que fazem utilização de interface gráfica, seja em desktop ou web. Nesse projeto eu quis trazer o desenvolvimento inicial de uma interface gráfica de uma calculadora utilizando a biblioteca swing, pois é essa biblioteca que nos proporciona os recursos para trabalhar com estas interfaces. primeira parte do projeto.
