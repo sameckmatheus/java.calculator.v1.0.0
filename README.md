@@ -24,7 +24,27 @@
 <p align="justify">Eu optei por utilizar a biblioteca Swing importada do JDK mais atual do Java, pois, a utilização da mesma proporciona a possibilidade de implementação de interfaces gráficas criadas de maneira simples e bem direta. Para tal feito é necessária a intalação de uma IDE chama NETBEANS, disponibilizada pela Oracle (Empresa Multinacional especializada em desenvolvimento de hardware e software). Logo abaixo você poderá ver o primeiro passo para a criação do projeto.</p>
 
 <div align="center">
+
+  <p align="justify">
+    <strong>1.</strong> Click na caixinha para criar um novo projeto...
+  </p>
   <img src="images/readme-1.png" width="800px">
+
+  <p align="justify">
+    <strong>1.</strong> Selecione a opção 'JavaAplication' e click em Next...
+  </p>
+  <img src="images/readme-2.png" width="800px">
+
+  <p align="justify">
+    <strong>1.</strong> Renomeie o seu projeto e finalize a criação da estrutura da aplicação...
+  </p>
+  <img src="images/readme-3.png" width="800px">  
+
+  <p align="justify">
+    <strong>1.</strong> Esta é a tela que será gerada após a criação...
+  </p>
+  <img src="images/readme-3.png" width="800px"> 
+  
 </div>
 
 <h3 align="justify">
