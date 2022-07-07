@@ -24,7 +24,7 @@
 <p align="justify">Eu optei por utilizar a biblioteca Swing importada do JDK mais atual do Java, pois, a utilização da mesma proporciona a possibilidade de implementação de interfaces gráficas criadas de maneira simples e bem direta. Para tal feito é necessária a intalação de uma IDE chama NETBEANS, disponibilizada pela Oracle (Empresa Multinacional especializada em desenvolvimento de hardware e software). Logo abaixo você poderá ver o primeiro passo para a criação do projeto.</p>
 
 <div align="center">
-  <img src="images/redme-1.png" width="400px">
+  <img src="images/readme-1.png" width="800px">
 </div>
 
 <h3 align="justify">
