@@ -28,22 +28,22 @@
   <p align="justify">
     <strong>1.</strong> Click na caixinha para criar um novo projeto...
   </p><br>
-  <img src="images/readme-1.png" width="100%">
+  <img src="images/readme-1.png" width="100%"><br>
 
   <p align="justify">
     <strong>1.</strong> Selecione a opção 'JavaAplication' e click em Next...
   </p><br>
-  <img src="images/readme-2.png" width="100%">
+  <img src="images/readme-2.png" width="100%"><br>
 
   <p align="justify">
     <strong>1.</strong> Renomeie o seu projeto e finalize a criação da estrutura da aplicação...
   </p><br>
-  <img src="images/readme-3.png" width="100%">  
+  <img src="images/readme-3.png" width="100%"><br>
 
   <p align="justify">
     <strong>1.</strong> Esta é a tela que será gerada após a criação...
-  </p>
-  <img src="images/readme-3.png" width="100%"> 
+  </p><br>
+  <img src="images/readme-3.png" width="100%"><br>
   
 </div>
 
