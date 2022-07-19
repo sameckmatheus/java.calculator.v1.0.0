@@ -28,7 +28,7 @@
   <p align="justify">
     <strong>1.</strong> Click na caixinha para criar um novo projeto...
   </p>
-  <img src="images/readme-1.png" width="800px">
+  <img src="images/readme-1.png" width="100%">
 
   <p align="justify">
     <strong>1.</strong> Selecione a opção 'JavaAplication' e click em Next...
