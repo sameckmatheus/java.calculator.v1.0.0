@@ -31,17 +31,17 @@
   <img src="images/readme-1.png" width="100%"><br>
 
   <p align="justify">
-    <strong>1.</strong> Selecione a opção 'JavaAplication' e click em Next...
+    <strong>2.</strong> Selecione a opção 'JavaAplication' e click em Next...
   </p><br>
   <img src="images/readme-2.png" width="100%"><br>
 
   <p align="justify">
-    <strong>1.</strong> Renomeie o seu projeto e finalize a criação da estrutura da aplicação...
+    <strong>3.</strong> Renomeie o seu projeto e finalize a criação da estrutura da aplicação...
   </p><br>
   <img src="images/readme-3.png" width="100%"><br>
 
   <p align="justify">
-    <strong>1.</strong> Esta é a tela que será gerada após a criação...
+    <strong>4.</strong> Esta é a tela que será gerada após a criação...
   </p><br>
   <img src="images/readme-3.png" width="100%"><br>
   
