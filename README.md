@@ -27,7 +27,7 @@
 
   <p align="justify">
     <strong>1.</strong> Click na caixinha para criar um novo projeto...
-  </p>
+  </p><br>
   <img src="images/readme-1.png" width="100%">
 
   <p align="justify">
