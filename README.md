@@ -37,7 +37,7 @@
 
   <p align="justify">
     <strong>1.</strong> Renomeie o seu projeto e finalize a criação da estrutura da aplicação...
-  </p>
+  </p><br>
   <img src="images/readme-3.png" width="100%">  
 
   <p align="justify">
