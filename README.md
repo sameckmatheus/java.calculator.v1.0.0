@@ -43,7 +43,7 @@
   <p align="justify">
     <strong>1.</strong> Esta é a tela que será gerada após a criação...
   </p>
-  <img src="images/readme-3.png" width="800px"> 
+  <img src="images/readme-3.png" width="100%"> 
   
 </div>
 
