@@ -32,7 +32,7 @@
 
   <p align="justify">
     <strong>1.</strong> Selecione a opção 'JavaAplication' e click em Next...
-  </p>
+  </p><br>
   <img src="images/readme-2.png" width="100%">
 
   <p align="justify">
